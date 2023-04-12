@@ -2,4 +2,4 @@ wandb
 data
 lightning_logs
 .DS_Store
-deep_learning/*
+deep-learning
